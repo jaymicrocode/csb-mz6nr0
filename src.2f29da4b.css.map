@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,KACE,sBACF,CAEA,QACE,cAAe,CACf,KAAM,CACN,SAAU,CACV,gBACF","file":"src.2f29da4b.css","sourceRoot":"..","sourcesContent":["body {\n  font-family: sans-serif;\n}\n\n#app h1 {\n  position: fixed;\n  top: 0;\n  left: 10px;\n  user-select: none;\n}\n"]}
